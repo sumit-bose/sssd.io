@@ -93,6 +93,7 @@ Table of Contents
    :maxdepth: 0
 
    Introduction <docs/idp/idp-introduction>
+   Entra ID <docs/idp/idp-entra_id>
 
 .. toctree::
    :caption: Troubleshooting
