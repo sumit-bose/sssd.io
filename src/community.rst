@@ -35,6 +35,10 @@ Community
 
     Have you found a bug in SSSD? Please report it in our `issue tracker`_.
 
+    Please check `SECURITY.md <https://github.com/SSSD/sssd/blob/master/SECURITY.md>`_
+    on SSSD's `project page <https://github.com/SSSD/sssd>`_
+    how to report security issues.
+
 .. _issue tracker: https://github.com/SSSD/sssd/issues
 
 

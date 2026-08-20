@@ -1,5 +1,9 @@
 :orphan:
 
+SSSD Supported Versions
+#######################
+- **sssd-2.13**
+
 SSSD Releases
 #############
 
